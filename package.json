@@ -1,0 +1,34 @@
+{
+    "name": "mercado-bitcoin-api",
+    "description": "Mercado Bitcoin API client",
+    "version": "0.0.1",
+    "homepage": "https://github.com/patrickbard/mercado-bitcoin-api",
+    "author": {
+        "name": "Patrick Bard",
+        "email": "patrickthiagobard@gmail.com"
+    },
+    "main": "mercado-bitcoin-api",
+    "files": [
+        "mercado-bitcoin-api.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/patrickbard/mercado-bitcoin-api.git"
+    },
+    "bugs": {
+        "url": "https://github.com/patrickbard/mercado-bitcoin-api/issues"
+    },
+    "keywords": [
+        "bitcoin",
+        "exchange",
+        "mercadobitcoin",
+        "api",
+        "mercado-bitcoin"
+    ],
+    "dependencies": {
+        "unirest": "0.1.1",
+        "lodash": "4.17.4",
+        "moment": "2.20.1"
+    },
+    "license": "MIT"
+}
